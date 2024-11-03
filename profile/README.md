@@ -1,4 +1,4 @@
-# Welcome to DocChain's GitHub Organization 🌐
+# Welcome to the DocChain Digital Notary GitHub 🌐
 
 Welcome to the official GitHub home for **DocChain**, where we’re building the future of notarization with blockchain technology. Here you’ll find our primary repositories, resources, and ongoing projects dedicated to providing secure, accessible, and fully digital notarization services. Our mission is to modernize notarization through cutting-edge technology, making it faster, more reliable, and convenient for everyone.
 
