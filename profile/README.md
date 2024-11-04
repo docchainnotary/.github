@@ -8,11 +8,13 @@ Welcome to the official GitHub home for **DocChain**, where we’re building the
 
 Get involved and start exploring! Each repository is a key part of DocChain’s ecosystem:
 
+- [**app**](https://github.com/DocChainOrg/app) — The mobile and web app, offering a user-friendly interface for document upload, notarization, verification, and secure storage.
+
+- [**contract**](https://github.com/DocChainOrg/contract) — The Soroban smart contract source code for DocChain Digital Notary service
+
 - [**site**](https://github.com/DocChainOrg/site) — Our main website, providing users with essential information, resources, and access to DocChain’s digital notarization platform.
 
 - [**project**](https://github.com/DocChainOrg/project) — The core of DocChain, containing blockchain-backed notarization logic, smart contracts, and key integrations to provide seamless document verification.
-
-- [**app**](https://github.com/DocChainOrg/app) — The mobile and web app, offering a user-friendly interface for document upload, notarization, verification, and secure storage.
 
 ---
 
